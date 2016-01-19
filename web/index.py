@@ -1,5 +1,6 @@
 from flask import render_template
 
+
 def index():
     water_t=45
     air_t=75

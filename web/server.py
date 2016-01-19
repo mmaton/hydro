@@ -7,7 +7,7 @@ DATABASE = '/tmp/database/hydro.db'
 SECRET_KEY = 'development key'
 USERNAME = 'admin'
 PASSWORD = 'nimda'
-PORT = 5060
+PORT = 8080
 HOST = "0.0.0.0"
 
 
